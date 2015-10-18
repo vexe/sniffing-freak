@@ -1,0 +1,8 @@
+<Configurations>
+  <Settings>
+    <ShowOnStartup>False</ShowOnStartup>
+    <SniffCurrentRemovalbeDrivesInSilentMode>False</SniffCurrentRemovalbeDrivesInSilentMode>
+  </Settings>
+  <BlackBox></BlackBox>
+  <SniffingFormats></SniffingFormats>
+</Configurations>
