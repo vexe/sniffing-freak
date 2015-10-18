@@ -8,9 +8,9 @@ Another one of my old programs.
 ## How do I sniff?
 
 -Simple:
-1-Select a loaction for your black box (the directory storing the files to be sniffed)
-2-Add the formats (file extensions) that you want to sniff in the SniffingFormats textBox, then click Apply.
-3-Now you can either manually sniff a drive by selecting it from the comboBox below and clicking on sniff
+- Select a loaction for your black box (the directory storing the files to be sniffed)
+- Add the formats (file extensions) that you want to sniff in the SniffingFormats textBox, then click Apply.
+- Now you can either manually sniff a drive by selecting it from the comboBox below and clicking on sniff
 OR, click on GoSilent and the program window will disappear. Now, if you insert a flash drive, SniffingFreak will
 automatically sniff it!
 
@@ -23,7 +23,9 @@ So if the black box is in your Desktop you have to create the 'SilentMode.OFF' f
 ## Settings tab?
 
 -There are currently 2 settings:
-1-Show on start up, which will start the program everytime you boot up and log in to windows.
-2-SCIRD mode which stands for (Sniff Current Inserted Removable Drive), as I said before, when you're in silent mode
+- Show on start up, which will start the program everytime you boot up and log in to windows.
+- SCIRD mode which stands for (Sniff Current Inserted Removable Drive), as I said before, when you're in silent mode
 you'll ONLY sniff any new inserted drives, so if you had like 2 flashes already inserted, they won't get sniffed
 SCIRD mode sniffs any currently inserted drives when you hit GoSilent.
+
+![alt tag](http://i.imgur.com/joWN5zJ.png)
